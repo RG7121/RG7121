@@ -1,0 +1,95 @@
+.times{
+	text-align: center;
+	padding-top: 50px;
+font-family: 'Great Vibes', cursive;
+   font-size: 60px;
+   font-weight: normal;
+ }
+.head{
+/*	margin-left: 50px;*/
+	text-align: center;
+ font-size: 30px;
+	font-style: italic;
+	font-weight: normal;
+
+}
+.article{
+	border: 3px solid #333;
+	padding: 10px;
+	
+}
+.kutta{
+	border: 3px solid #333;
+	padding: 10px;
+    width: 400%;
+}
+.teesra{
+		border: 3px solid #333;
+	padding: 10px;
+
+}
+.sec{
+	display: flex;
+	align-items: stretch;
+	
+}
+.ninja{
+
+	font-weight: normal;
+  font-style: italic;
+  font-size: 30px;
+}
+.code{
+
+	text-align: center;
+	font-weight: normal;
+	font-style: italic;
+	font-size: 30px;
+}
+p{
+	line-height: 1.5;
+}
+.new-york{
+	border: 3px solid #333;
+	padding: 10px;
+	width: 30%;
+}
+.list{
+	display: flex;
+	flex-direction: column;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.list-items{
+	width: 150vh;
+	flex: 1;
+	display: flex;
+	align-items: center;
+	padding-left: 5px;
+	font-size: 50px;
+	font-family: fantasy;
+	font-style: italic;
+	font-weight: 111;
+	transition: 1s ease-in-out;
+}
+.list-items:hover{
+  transform: translate3d(-50px, -50px, 100px);
+  color: red;
+}
+.list-items:nth-child(1){
+ background-color:#34ebb7 ;
+}
+.list-items:nth-child(2){
+	background-color: #006ab5;
+	
+}.list-items:nth-child(3){
+	background-color: #54b500;
+	
+}.list-items:nth-child(4){
+	background-color: #b5af00;
+	
+}.list-items:nth-child(5){
+	background-color: #5a05fa;
+	
+}
