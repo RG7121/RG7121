@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RG7121
-- 👀 I’m interested in DevOPS and FULL STACK DEVELOPMENT
-- 🌱 I’m currently learning FULL STACK DEVELOPMENT
-- 💞️ I’m looking to collaborate on FRONTEND DEV/
+- 👀 Interested in DEVops, GITops, DATAops 
+- 🌱 LEARN AND CONTRIBUTE
+- 💞️ I’m looking to collaborate on DEVops/Kubernetes/python/ Terraform/ Ansible/ docker
 - 📫 How to reach me ...@gulati.r7121@gmail.com
 
 <!---
